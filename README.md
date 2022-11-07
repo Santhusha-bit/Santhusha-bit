@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Santhusha Janana Mudannayaka](@Santhusha-bit).
+- 👋 Hi, I’m Santhusha Janana Mudannayaka.
 - 👀 I’m interested in Computer Sciennce, Strat ups, Businesses, Investing, Travelling and Sports.
 - 🌱 I’m currently learning to be an Engineer at University of Moratuwa, Sri Lanka.
 - 💞️ I’m looking to collaborate on Open source projects that I have enough skills
