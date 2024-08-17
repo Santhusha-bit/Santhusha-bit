@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Santhusha Janana Mudannayaka.
 - 👀 I’m interested in Computer Science.
-- 🌱 I’m a Spphomore at Golden West College, Huntington Beach, California, USA
+- 🌱 I’m a Sophomore at Golden West College, Huntington Beach, California, USA
 - 💞️ I’m looking to collaborate on Open source projects that I have enough skills
 - 📫 You can reach me on, [LinkedIn](https://www.linkedin.com/in/santhusha-janana-mudannayaka), [Twitter](https://twitter.com/SanthushaJanana), [Medium](https://santhushajanana.medium.com/), [Facebook](https://www.facebook.com/santhushajanana.mudannayaka), [Instagram](https://www.instagram.com/santhusha_janana/)
 
