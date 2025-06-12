@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Santhusha Janana Mudannayaka</h1>
 
 <p align="center">
-  🌍 UC Berkeley 🐻
+  🌍 UC Berkeley 🐻 <br>
   💻 Electrical Engineering and Computer Science Major 
 </p>
 
